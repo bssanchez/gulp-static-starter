@@ -1,13 +1,13 @@
 # GULP Static Starter 
 > Starter configuration for static web pages with ecmascript, sass(scss) and pug
 
-[![NPM Version][npm-image]][npm-url]
-
 Configuration with GULP babel for start to coding fastly and 'professional' (xD)
 
 ## Installation
 
 ```sh
+gi clone https://github.com/bssanchez/gulp-static-starter.git
+cd gulp-static-starter
 npm install
 npm run serve or gulp
 ```
@@ -36,7 +36,7 @@ Yu can excecute the tasks mentioned below:
 
 ## Meta
 
-Brandon Sanchez – [@_kid_goth](https://twitter.com/_kid_goth_) – bsanchez@mediacode.co
+Brandon Sanchez – [@_kid_goth](https://twitter.com/_kid_goth) – bsanchez@mediacode.co
 
 Distributed under the MIT license. See ``MIT`` for more information.
 
