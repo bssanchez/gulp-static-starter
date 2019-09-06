@@ -1,0 +1,16 @@
+/node_modules
+/build/assets/node_modules
+
+/build/**/*.html
+!build/index.html
+!build/assets/index.html
+!build/assets/css/index.html
+!build/assets/js/index.html
+
+/build/assets/css/**/*.css
+!/build/assets/css/main.css
+
+/build/assets/js/**/*.js
+!/build/assets/js/main.js
+
+/build/**/*.map
