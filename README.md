@@ -1,4 +1,4 @@
-# Product Name
+# GULP Static Starter 
 > Starter configuration for static web pages with ecmascript, sass(scss) and pug
 
 [![NPM Version][npm-image]][npm-url]
