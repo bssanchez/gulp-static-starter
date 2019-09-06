@@ -38,6 +38,6 @@ Yu can excecute the tasks mentioned below:
 
 Brandon Sanchez – [@_kid_goth](https://twitter.com/_kid_goth) – bsanchez@mediacode.co
 
-Distributed under the MIT license. See ``MIT`` for more information.
+Distributed under the MIT license. See [LICENCE](LICENSE) for more information.
 
 [https://github.com/bssanchez](https://github.com/bssanchez/)
