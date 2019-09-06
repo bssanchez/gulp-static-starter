@@ -18,14 +18,19 @@ For finish you can build the project to build folder, this command proccess sass
 
 ## Gulp tasks
 
-Yu can excecute the tasks mentioned below:
+You can excecute the tasks mentioned below:
 
 `scss` => Proccess scss files from ./src/scss/ to ./build/assets/css
+
 `javascript` => Proccess js files from ./src/js/ to ./build/assets/js
+
 `views` => Proccess pug files from ./src/pug/ to ./build/
+
 `copynm` => Copy production dependencies from node_modules to ./build/assets/node_modules
 
+
 `build` => Proccess all tasks
+
 `default` => Proccess all tasks and launch BrowserSync watching for changes
 
 
